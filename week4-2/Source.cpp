@@ -4,8 +4,6 @@ void main()
 {
     int i, j,n, x,c = 1;
     char a = 'A';
-    int n, x;
-    int c = 1;
 
     printf("Input number  : ");
     scanf("%d", &n);
