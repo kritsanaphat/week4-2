@@ -2,7 +2,7 @@
 #include <stdio.h>
 void main()
 {
-    int i, j;
+    int i, j,n, x,c = 1;
     char a = 'A';
     int n, x;
     int c = 1;
